@@ -1,3 +1,6 @@
+## svg 스터디 중.
+(https://svg-tutorial.com/) 의 튜토리얼을 수행 중입니다.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
