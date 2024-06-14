@@ -1,4 +1,4 @@
-import styles from "@/app/(study)/shape.module.css"
+import styles from "@/app/_study/shape.module.css"
 
 export default function BasicShape() {
     //width 속성과 height 속성은 브라우저에서 이미지가 차지하는 공간.
