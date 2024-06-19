@@ -3,8 +3,8 @@ import styles from "@/app/_study/shape.module.css"
 export default function PolygonShape() {
     return (
         <>
-            <section className={styles.polygon_shape}>
-                <svg width = {200} height={400} viewBox="-100 -200 200 400">
+            <section className={styles.svgBox}>
+                <svg viewBox="-100 -150 200 350">
                     <polygon points="0,0 80,120 -80,120" fill="#234236"/>
                     <polygon points="0,-40 60,60 -60,60" fill="#0C5C4C"/>
                     <polygon points="0,-80 40,0 -40,0" fill="#38755B" />

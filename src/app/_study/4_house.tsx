@@ -3,7 +3,7 @@ import styles from "@/app/_study/shape.module.css"
 
 export default function House() {
     return(
-        <section className={styles.polygon_shape}>
+        <section  className={styles.svgBox}>
             <svg className={styles.house} width={200} height={200} viewBox="-100 -100 200 200" >
                 <polygon className={styles.wall}
                     points="-65,80 -65,-10 0,-70 65,-10 65,80" />
