@@ -5,6 +5,7 @@ import PolygonShape from "./_study/2_polygon";
 import Gingerbread from "./_study/3_gingerbread";
 import House from "./_study/4_house";
 import Arrow from "./_study/5_Arrow";
+import Star from "./_study/6_star";
 
 //https://svg-tutorial.com/
 
@@ -17,6 +18,7 @@ export default function Home() {
           <Gingerbread />
           <House />
           <Arrow />
+          <Star />
         </section>
     </main>
   );
