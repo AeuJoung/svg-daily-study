@@ -6,6 +6,7 @@ import Gingerbread from "./_study/3_gingerbread";
 import House from "./_study/4_house";
 import Arrow from "./_study/5_Arrow";
 import Star from "./_study/6_star";
+import Clock from "./_study/7_clock";
 
 //https://svg-tutorial.com/
 
@@ -19,6 +20,7 @@ export default function Home() {
           <House />
           <Arrow />
           <Star />
+          <Clock />
         </section>
     </main>
   );

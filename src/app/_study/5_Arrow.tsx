@@ -14,9 +14,9 @@ export default function Arrow() {
                         L 30 50"
                     fill="none"
                     stroke="#D1495B"
-                    stroke-width={25}
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
+                    strokeWidth={25}
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
                 />
             </svg>
         </section> 
