@@ -9,8 +9,6 @@ export default function Clock() {
     const secondElement = useRef<SVGLineElement>(null);
     const interval = useRef<NodeJS.Timeout>();
 
-
-
     useEffect(()=>{
         interval.current = setInterval(()=>{
             console.log("Ddd");
@@ -45,7 +43,6 @@ export default function Clock() {
                     <line className={styles.minutes} ref={minutesElement} y2="-30" strokeWidth={6} />
                     <line className={styles.second} ref={secondElement} y2="-35" strokeWidth={2} />
                 </g>
-
             </svg>
         </section>
     )
