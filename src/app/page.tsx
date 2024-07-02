@@ -8,6 +8,7 @@ import Arrow from "./_study/5_Arrow";
 import Star from "./_study/6_star";
 import Clock from "./_study/7_clock";
 import Sun from "./_study/8_sun";
+import Forest from "./_study/9_forest";
 
 //https://svg-tutorial.com/
 
@@ -23,6 +24,7 @@ export default function Home() {
           <Star />
           <Clock />
           <Sun />
+          <Forest />
         </section>
     </main>
   );

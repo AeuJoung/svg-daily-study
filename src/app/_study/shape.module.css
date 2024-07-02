@@ -15,13 +15,13 @@
 .mouth {
     fill: none;
     stroke: white;
-    strokeWidth: 2px;
+    stroke-width: 2px;
 }
 
 .limb {
     stroke: #cd803d;
-    strokeWidth: 35px;
-    strokeLinecap: round;
+    stroke-width: 35px;
+    stroke-linecap: round;
 }
 .button {
     fill: black;
@@ -31,15 +31,15 @@
 /*4_house*/
 .house {
     stroke: black;
-    strokeWidth: 2px;
+    stroke-width: 2px;
     fill: white;
   }
   
 .house .roof {
 fill: none;
 stroke: #d1495b;
-strokeWidth: 10px;
-strokeLinecap: round;
+stroke-width: 10px;
+stroke-linecap: round;
 }
 
 .house .door {
@@ -56,5 +56,5 @@ fill: #fdea96;
 
 .house .window-sill {
 fill: #d1495b;
-strokeLinecap: round;
+stroke-linecap: round;
 }
