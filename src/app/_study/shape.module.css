@@ -58,3 +58,43 @@ fill: #fdea96;
 fill: #d1495b;
 stroke-linecap: round;
 }
+
+
+/*windmill*/
+
+.windmill_head {
+    animation-name: rotate;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+
+/*present*/
+
+.pbox {
+    fill: #d1495b;
+    stroke: black;
+    stroke-width: 2px;
+}
+  
+.pstripe {
+    fill: white;
+    stroke: black;
+    stroke-width: 2px;
+}
+  
+.pribbon {
+    stroke: #b73a3b;
+    stroke-width: 4px;
+    fill: none;
+}

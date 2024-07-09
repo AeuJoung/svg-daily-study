@@ -9,6 +9,9 @@ import Star from "./_study/6_star";
 import Clock from "./_study/7_clock";
 import Sun from "./_study/8_sun";
 import Forest from "./_study/9_forest";
+import WindMill from "./_study/10_windmill";
+import Btree from "./_study/11_btree";
+import Present from "./_study/12_present";
 
 //https://svg-tutorial.com/
 
@@ -25,6 +28,9 @@ export default function Home() {
           <Clock />
           <Sun />
           <Forest />
+          <WindMill />
+          <Btree />
+          <Present />
         </section>
     </main>
   );
