@@ -26,8 +26,6 @@ export default function Present() {
                 <rect className={styles.pbox} x={-70} y={-47} width={140} height={20} />
                 <rect className={styles.pstripe} x={-20} y={-40} width={40} height={100} />
                 <rect className={styles.pstripe} x={-25} y={-47} width={50} height={20} />
-
-
             </svg>
         </section>
     );

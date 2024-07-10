@@ -1,4 +1,3 @@
-import Image from "next/image";
 import styles from "./page.module.css";
 import BasicShape from "./_study/1_basic-shapes";
 import PolygonShape from "./_study/2_polygon";
@@ -12,6 +11,9 @@ import Forest from "./_study/9_forest";
 import WindMill from "./_study/10_windmill";
 import Btree from "./_study/11_btree";
 import Present from "./_study/12_present";
+import Bell from "./_study/13_bell";
+import ArcCain from "./_study/14_arccain";
+import Bear from "./_study/15_bear";
 
 //https://svg-tutorial.com/
 
@@ -31,6 +33,9 @@ export default function Home() {
           <WindMill />
           <Btree />
           <Present />
+          <Bell />
+          <ArcCain />
+          <Bear />
         </section>
     </main>
   );
