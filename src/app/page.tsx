@@ -14,6 +14,7 @@ import Present from "./_study/12_present";
 import Bell from "./_study/13_bell";
 import ArcCain from "./_study/14_arccain";
 import Bear from "./_study/15_bear";
+import SnowMan from "./_study/16_snowman";
 
 //https://svg-tutorial.com/
 
@@ -36,6 +37,7 @@ export default function Home() {
           <Bell />
           <ArcCain />
           <Bear />
+          <SnowMan />
         </section>
     </main>
   );

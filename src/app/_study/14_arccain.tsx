@@ -22,7 +22,7 @@ export default function ArcCain() {
                         L 50 -80
                         A 50 50 0 0 0 -50 -80
                     "
-                    stroke="white"
+                    stroke="white"  
                     strokeWidth={40}
                 />
                 <line className={styles.green_mark} x1="-35" y1="-90" x2="-60" y2="-100" />
