@@ -10,7 +10,7 @@ export default function ArcCain() {
                         M 50 120
                         L 50 -80
                         A 50 50 0 0 0 -50 -80
-                    "    
+                    "     
                     stroke="#cd803d"
                     strokeWidth={45}
                 />
