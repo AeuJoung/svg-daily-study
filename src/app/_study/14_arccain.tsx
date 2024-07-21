@@ -25,7 +25,7 @@ export default function ArcCain() {
                     stroke="white"  
                     strokeWidth={40}
                 />
-                <line className={styles.green_mark} x1="-35" y1="-90" x2="-60" y2="-100" />
+                <line className={styles.green_mark} x1="-35" y1="-90" x2="-60" y2="-100" />  
                 <line className={styles.red_mark} x1="-15" y1="-115" x2="-25" y2="-135" />
                 <line className={styles.green_mark} x1="20" y1="-110" x2="35" y2="-130" />
                 <line className={styles.red_mark} x1="40" y1="-60" x2="60" y2="-80" />
