@@ -7,7 +7,7 @@ export default function ArcCain() {
                 <path
                     className={styles.arcbody}
                     d="
-                        M 50 120
+                        M 50 120  
                         L 50 -80
                         A 50 50 0 0 0 -50 -80
                     "     
